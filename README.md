@@ -1,5 +1,5 @@
-<h6 align="center">Hi 👋, I'm Mohammd Iqbal Hossen</h6>
-<h6 align="center">Iam a Junior Software Developer</h6>
+<h1 align="center">Hi 👋, I'm Mohammd Iqbal Hossen</h1>
+<h1 align="center">Iam a Junior Software Developer</h1>
 
 - 👯 I’m looking to collaborate on **CloudNativeProject**
 
